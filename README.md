@@ -1,5 +1,3 @@
-# jnorfolk.github.io
-
 # Joshua Norfolk
 - Email: joshua.quinn.norfolk@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/joshua-norfolk/) 

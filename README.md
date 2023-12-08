@@ -23,6 +23,10 @@ Aspiring Data Scientist with a strong foundation in Python machine learning and 
 - Implemented linear regression and random forest models achieving 7.53% tested sMAPE through extensive validation.
 - [Link to project](https://github.com/jnorfolk/Zyfra-Gold-Recovery/blob/main/Zyfra-Gold-Recovery.ipynb)
 
+### OilyGiant Region Selection (06/23)
+- Analyzed parameters across three regions using linear regression models, culminating in the selection of a region based on profit and risk
+- Implemented Bootstrapping for risk assessment, maximizing profitability with effective risk management in the oil mining sector.
+
 ## Experience
 ### Inventory Control Specialist | ADUSA Distribution (01/2023 – 11/2023)
 - Spearheaded a strategic initiative to streamline inventory management processes, resulting in a 10% improvement in workflow efficiency.

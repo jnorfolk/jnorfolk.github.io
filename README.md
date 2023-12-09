@@ -16,7 +16,7 @@ Aspiring Data Scientist with a strong foundation in Python, machine learning, an
 ### DataSpeak Chatbot Externship (09/23-11/23)
 - Developed a question-answering customer service system using Retrieval-Augmented Generation integrating technologies like Pinecone LLM, Hugging Face, LangChain, and Streamlit.
 - Achieved coherent response generation in ~30 seconds and presented the solution to C-level executives.
-- [Link to project]([https://github.com/jnorfolk/DataSpeak-QA](https://github.com/jnorfolk/DataSpeak-QA/blob/main/app_launcher.ipynb))
+- [Link to project](https://github.com/jnorfolk/DataSpeak-QA](https://github.com/jnorfolk/DataSpeak-QA/blob/main/app_launcher.ipynb)
 
 ### Zyfra Gold Recovery Prediction (06/23)
 - Created a predictive model for gold concentrate yield optimizing gold production.

@@ -4,7 +4,7 @@
 - [GitHub](https://github.com/jnorfolk) 
 
 ## Professional Summary
-Aspiring Data Scientist with a strong foundation in Python machine learning and statistical analysis. Leveraging 1+ year of experience in data-driven projects and a B.S. in Physics; excelling in transforming complex ideas into actionable strategies. Known for quick learning, effective mentorship, and fostering collaborative team environments.
+Aspiring Data Scientist with a strong foundation in Python, machine learning, and statistical analysis. Leveraging 1+ year of experience in data-driven projects and a B.S. in Physics; excelling in transforming complex ideas into actionable strategies. Known for quick learning, effective mentorship, and fostering collaborative team environments.
 
 ## Skills
 - **Python** (Pandas, NumPy, SciPy)

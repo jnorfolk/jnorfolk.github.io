@@ -26,7 +26,7 @@ Aspiring Data Scientist with a strong foundation in Python, machine learning, an
 ### OilyGiant Region Selection (06/23)
 - Analyzed parameters across three regions using linear regression models, culminating in the selection of a region based on profit and risk
 - Implemented Bootstrapping for risk assessment, maximizing profitability with effective risk management in the oil mining sector.
-- [Link to project](https://github.com/jnorfolk/OilyGiant-Region-Selection/blob/main/OilyGiant.ipynb)
+- [Link to project](https://github.com/jnorfolk/OilyGiant-Region-Selection/blob/main/README.md)
 
 ## Experience
 ### Inventory Control Specialist | ADUSA Distribution (01/2023 – 11/2023)

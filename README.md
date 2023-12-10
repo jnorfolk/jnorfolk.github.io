@@ -46,6 +46,11 @@ Aspiring Data Scientist with a strong foundation in Python, machine learning, an
 - Utilized Python for data extraction and analysis, contributing to pivotal project insights.
 - Presented findings to senior scientists, influencing project trajectory and gaining valuable experience in data-driven decision-making in a research environment.
 
+### Scientific Researcher | Penn State University (09/2017-04/2019)
+- Part of PSU flight program group which engineered a rocket payload for a NASA sounding rocket to study polar mesospheric winter echoes (PMWEs).
+- Planned data collection for Langmuir probes, a scientific instrument, enabling science team to better understand PMWE's after data collection.
+- Attended launch to provide oversight on ground station setup and to monitor atmospheric conditions in control room if science lead was unavailable.
+
 ## Education
 - **Pennsylvania State University** | B.S. in Physics with Math Minor | GPA: 3.5 (08/2016-12/2019)
 - **TripleTen** | Data Science Program (01/2023-11/2023): Completed 16 projects in data science including EDA, data preprocessing, statistics, and machine learning.

@@ -26,7 +26,7 @@ Aspiring Data Scientist with a strong foundation in Python, machine learning, an
 ### Zyfra Gold Recovery Prediction (06/23)
 - Created a predictive model for gold concentrate yield optimizing gold production.
 - Implemented linear regression and random forest models achieving 7.53% tested sMAPE through extensive validation.
-- [Link to project](https://github.com/jnorfolk/Zyfra-Gold-Recovery/blob/main/Zyfra-Gold-Recovery.ipynb)
+- [Link to project](https://github.com/jnorfolk/Telecom-Churn/blob/main/README.md)
 
 ### OilyGiant Region Selection (06/23)
 - Analyzed parameters across three regions using linear regression models, culminating in the selection of a region based on profit and risk

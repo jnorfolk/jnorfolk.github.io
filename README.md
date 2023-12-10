@@ -14,18 +14,18 @@ Aspiring Data Scientist with a strong foundation in Python, machine learning, an
 
 ## Tech Projects
 ### DataSpeak Chatbot Externship (09/23-11/23)
-- Developed a question-answering customer service system using Retrieval-Augmented Generation integrating technologies like Pinecone LLM, Hugging Face, LangChain, and Streamlit.
+- Developed a question-answering customer service system using Retrieval-Augmented Generation, integrating technologies like Pinecone LLM, Hugging Face, LangChain, and Streamlit.
 - Achieved coherent response generation in ~30 seconds and presented the solution to C-level executives.
 - [Link to project](https://github.com/jnorfolk/DataSpeak-QA/blob/main/README.md)
+
+### Zyfra Gold Recovery Prediction (06/23)
+- Created a predictive model for gold concentrate yield, optimizing gold production, with real-world company data.
+- Implemented linear regression and random forest models, achieving 7.53% tested sMAPE through extensive validation.
+- [Link to project](https://github.com/jnorfolk/Telecom-Churn/blob/main/README.md)
 
 ### Telecom Churn Prediction (11/23)
 - Developed a predictive model for Interconnect with a 0.90 AUC-ROC score, identifying key churn factors to drive targeted customer retention strategies.
 - Streamlined client service optimization by pinpointing tenure, contract type, and internet service as major churn indicators, aiding in churn rate reduction.
-- [Link to project](https://github.com/jnorfolk/Telecom-Churn/blob/main/README.md)
-
-### Zyfra Gold Recovery Prediction (06/23)
-- Created a predictive model for gold concentrate yield optimizing gold production.
-- Implemented linear regression and random forest models achieving 7.53% tested sMAPE through extensive validation.
 - [Link to project](https://github.com/jnorfolk/Telecom-Churn/blob/main/README.md)
 
 ### OilyGiant Region Selection (06/23)

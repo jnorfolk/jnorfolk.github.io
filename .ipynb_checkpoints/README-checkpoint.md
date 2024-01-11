@@ -57,5 +57,5 @@ Alongside my physics experience, I have thoroughly enjoyed teaching children, wo
 - Attended launch to provide oversight on ground station setup and to monitor atmospheric conditions in control room if science lead was unavailable.
 
 ## Education
-- **Pennsylvania State University** * B.S. in Physics with Math Minor * GPA: 3.5 (08/2016-12/2019)
-- **TripleTen** * Data Science Program (01/2023-11/2023): Completed 16 projects in data science including EDA, data preprocessing, statistics, and machine learning.
+- **Pennsylvania State University** \| B.S. in Physics with Math Minor \| GPA: 3.5 (08/2016-12/2019)
+- **TripleTen** \| Data Science Program (01/2023-11/2023): Completed 16 projects in data science including EDA, data preprocessing, statistics, and machine learning.

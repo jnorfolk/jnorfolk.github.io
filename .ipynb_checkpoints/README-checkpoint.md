@@ -19,21 +19,27 @@ Alongside my physics experience, I have thoroughly enjoyed teaching children, wo
 ## Tech Projects
 ### DataSpeak Chatbot Externship (09/23-11/23)
 - Developed a question-answering customer service system using Retrieval-Augmented Generation, integrating technologies like Pinecone LLM, Hugging Face, LangChain, and Streamlit.
-- Achieved coherent response generation in ~30 seconds and presented the solution to C-level executives.
+- Achieved coherent response generation in ~30 seconds and presented the solution to C-level executives at DataSpeak.
 - [Link to project](https://github.com/jnorfolk/DataSpeak-QA/blob/main/README.md)
 
 ### Zyfra Gold Recovery Prediction (06/23)
-- Created a predictive model for gold concentrate yield, optimizing gold production, with real-world company data.
+- Created a predictive model for gold concentrate yield, optimizing gold production, with real-world company data and unintuitive features.
 - Implemented linear regression and random forest models, achieving 7.53% tested sMAPE through extensive validation.
 - [Link to project](https://github.com/jnorfolk/Telecom-Churn/blob/main/README.md)
 
 ### Telecom Churn Prediction (11/23)
 - Developed a predictive model for Interconnect with a 0.90 AUC-ROC score, identifying key churn factors to drive targeted customer retention strategies.
 - Streamlined client service optimization by pinpointing tenure, contract type, and internet service as major churn indicators, aiding in churn rate reduction.
+- Joined, analyzed, and interpreted raw data from various sources
 - [Link to project](https://github.com/jnorfolk/Telecom-Churn/blob/main/README.md)
 
+### Ice Video Game Sales (04/23)
+- Analyzed video game sales data using Python and visualization tools, predicting 2017 market trends and platform performance.
+- Employed t-tests and ANOVA on user ratings to derive actionable insights for game profitability and regional preferences.
+- [Link to project](https://github.com/jnorfolk/Data-Projects-TripleTen/tree/main/Ice%20Video%20Game%20Sales)
+
 ### OilyGiant Region Selection (06/23)
-- Analyzed parameters across three regions using linear regression models, culminating in the selection of a region based on profit and risk
+- Analyzed parameters across three regions using linear regression models, culminating in the selection of a region based on profit and risk.
 - Implemented Bootstrapping for risk assessment, maximizing profitability with effective risk management in the oil mining sector.
 - [Link to project](https://github.com/jnorfolk/OilyGiant-Region-Selection/blob/main/README.md)
 
@@ -58,4 +64,4 @@ Alongside my physics experience, I have thoroughly enjoyed teaching children, wo
 
 ## Education
 - **Pennsylvania State University** \| B.S. in Physics with Math Minor \| GPA: 3.5 (08/2016-12/2019)
-- **TripleTen** \| Data Science Program (01/2023-11/2023): Completed 16 projects in data science including EDA, data preprocessing, statistics, and machine learning.
+- **TripleTen** \| Data Science Program (01/2023-11/2023): Completed 16 reviewed projects in data science including EDA, data preprocessing, statistics, and machine learning.

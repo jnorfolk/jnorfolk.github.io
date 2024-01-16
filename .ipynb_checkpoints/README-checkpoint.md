@@ -55,13 +55,13 @@ Alongside my physics experience, I have thoroughly enjoyed teaching children, wo
 - Sponsored by the U.S. Department of Homeland Security (DHS) Domestic Nuclear Detection Office (DNDO).
 - Engaged in a rigorous internship focusing on evaluating a novel x-ray detection system.
 - Utilized Python for data extraction and analysis, contributing to pivotal project insights.
-- Presented findings to senior scientists, influencing project trajectory and gaining valuable experience in data-driven decision-making in a research environment.
+- Presented findings to senior scientists, influencing project trajectory and gaining valuable experience in data-driven decision-making in a research environment. Also [presented to peers](https://www.linkedin.com/in/joshua-norfolk/overlay/1635541268226/single-media-viewer/?profileId=ACoAAD9ACSkBF0ejByMqwfH2ZWR4dnky950ZZnQ) and [wrote a 13-page report](https://www.linkedin.com/in/joshua-norfolk/overlay/1705114493071/single-media-viewer/?profileId=ACoAAD9ACSkBF0ejByMqwfH2ZWR4dnky950ZZnQ) for DHS.
 
 ### Scientific Researcher | Penn State University (09/2017-04/2019)
-- Part of PSU flight program group which engineered a rocket payload for a NASA sounding rocket to study polar mesospheric winter echoes (PMWEs).
-- Planned data collection for Langmuir probes, a scientific instrument, enabling science team to better understand PMWE's after data collection.
+- Part of PSU flight program group, working collaboratively and iteratively throughout the project's life cycle to engineer a rocket payload for a NASA sounding rocket - launched from Norway to study polar mesospheric winter echoes (PMWEs). [Link to a paper](https://www.linkedin.com/in/joshua-norfolk/overlay/1635541265735/single-media-viewer/?profileId=ACoAAD9ACSkBF0ejByMqwfH2ZWR4dnky950ZZnQ)
+- Planned data collection for Langmuir probes, a scientific instrument, enabling science team to better understand PMWEs after data collection.
 - Attended launch to provide oversight on ground station setup and to monitor atmospheric conditions in control room if science lead was unavailable.
 
 ## Education
 - **Pennsylvania State University** \| B.S. in Physics with Math Minor \| GPA: 3.5 (08/2016-12/2019)
-- **TripleTen** \| Data Science Program (01/2023-11/2023): Completed 16 reviewed projects in data science including EDA, data preprocessing, statistics, and machine learning.
+- **TripleTen** \| Data Science Program (01/2023-12/2023): Completed 16 reviewed projects in data science including EDA, data preprocessing, statistics, and machine learning.

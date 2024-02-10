@@ -10,6 +10,8 @@ Now, I am an aspiring Data Scientist with a strong foundation in Python, machine
 
 Alongside my physics experience, I have thoroughly enjoyed teaching children, working first as a camp counselor and then as a science teacher for Nature's Classroom. I developed physics-based curriculums and improved my ability to communicate physics and experimental principles to a less knowledgeable audience, while exhibiting patience and empathy.
 
+Personally speaking: for years I have loved rock climbing and hiking. I devoted a year, sometime between my college graduation and the start of my data science program, to traveling the United States in my car by myself and climbing in the desert and mountains as much as possible. Beyond finding that the world is a beautiful place, I honed my sense of technical and emotional problem-solving in terms of rope systems, trip logistics, and teamwork with strangers. If asked when I've had to "think on my feet," certainly there have been instances in professional settings where this was required of me - but nothing comes to mind more sharply than the numerous times that I took the lead to problem-solve myself and my partners out of unexpected and pressing trouble.
+
 ## Skills
 - **Python** (Pandas, NumPy, SciPy)
 - **Machine Learning** (Scikit-Learn, NLTK, TensorFlow)

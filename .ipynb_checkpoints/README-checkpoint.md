@@ -47,11 +47,10 @@ Personally speaking: for years I have loved rock climbing and hiking. I devoted 
 
 ## Experience
 ### Inventory Control Specialist | ADUSA Distribution (01/2023 – 11/2023)
-- Spearheaded a strategic initiative to streamline inventory management processes, resulting in a 10% improvement in workflow efficiency.
-- Employed advanced Excel functions to develop and maintain accurate inventory tracking systems, significantly reducing data discrepancies.
-- Analyzed and resolved complex inventory issues demonstrating strong problem-solving skills and attention to detail.
-- Collaborated with cross-functional teams to optimize inventory levels, ensuring seamless operations and reducing waste.
-- Played a key role in the implementation of new inventory management software, enhancing overall data accuracy and operational productivity.
+- Streamlined inventory management processes for the team, resulting in a 10% improvement in workflow efficiency.
+- Employed Excel functions to develop and maintain accurate inventory tracking systems, reducing data discrepancies.
+- Analyzed and resolved complex inventory issues, demonstrating strong problem-solving skills and attention to detail.
+- Collaborated with other departments to optimize inventory levels and educated the team on new software.
 
 ### Scientific Data Analyst Intern | Lawrence-Livermore National Lab (06/2018-08/2018)
 - Sponsored by the U.S. Department of Homeland Security (DHS) Domestic Nuclear Detection Office (DNDO).
